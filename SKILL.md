@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-226
-description: "Create XXD Panel 226 raster artwork: a faithful photograph paired with an iced-cookie bas-relief miniature that retells the source as matte frosting, fondant and soft-clay, small-stamp composition and abundant whitespace. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-226 or asks for this iced-cookie miniature style."
+description: "XXD Panel 226｜Iced Cookie Bas-Relief: remakes a photo's subject together with its essential setting and relationships as one small iced-cookie bas-relief — a consistent miniature world in royal icing, fondant and soft clay, with thick rounded outlines, shallow raised forms, softly bevelled edges, a few layers of piped icing and pressed texture, and a matte, finely grainy baked surface rather than plastic shine — kept small like a seal in wide white space, in bright soft icing colours drawn from the photo (cream white, sky blue, lake teal, fresh green, butter yellow, apricot, coral pink), with a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-226 or asks for iced cookie, fondant, sugar-cookie relief or soft-clay miniature art from a photo."
 ---
 
 # XXD Panel 226

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 226｜Iced Cookie Bas-Relief: remakes a photo's subject together with its essential setting and relationships as one small iced-cookie bas-relief — a consistent miniature world in royal icing, fondant and soft clay, with thick rounded outlines, shallow raised forms, softly bevelled edges, a few layers of piped icing and pressed texture, and a matte, finely grainy baked surface rather than plastic shine — kept small like a seal in wide white space, in bright soft icing colours drawn from the photo (cream white, sky blue, lake teal, fresh green, butter yellow, apricot, coral pink), with a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-226 or asks for iced cookie, fondant, sugar-cookie relief or soft-clay miniature art from a photo.",
+  "short_description": "糖霜曲奇浅浮雕：把照片主体连同环境做成一枚哑光、圆润的糖霜曲奇小浮雕",
+  "zh-CN": {
+    "name": "糖霜曲奇浅浮雕",
+    "tagline": "把照片里的主体和场景，一起做成一枚哑光、圆润的糖霜曲奇小浮雕。",
+    "look": "不只是给主体套上饼干质感：主体连同必要的环境和关系，都统一做成糖霜、翻糖和软陶质地的微缩浅浮雕，像一枚真正烘焙、手工挤花的曲奇。轮廓圆润厚实，浅浅凸起，边缘是柔软的倒角，细节高度概括，只用几层糖霜、压纹和浮雕交代身份；表面哑光、细腻，带微小颗粒，没有塑料高光。曲奇像一枚小章印，四周是大面积留白。颜色是从照片转译来的明亮糖霜色：奶油白、天空蓝、湖水青、嫩绿、奶油黄、杏橙、珊瑚粉。留白里安静地放几个字。",
+    "traits": ["糖霜曲奇", "浅浮雕微缩", "圆润倒角", "小尺度章印", "霜彩色系"],
+    "good": [
+      "轮廓简单、讨喜的主体：一只猫、一辆小车、一座小屋、一杯冰淇淋",
+      "有简单场景关系的画面：海边的灯塔、草地上的狗、窗台上的花",
+      "想做节日卡片、头像、周边小物设计或温暖插画的照片"
+    ],
+    "poor": [
+      "细节密集、结构复杂的照片：城市天际线、机械、密集人群",
+      "气氛沉重、严肃的画面，甜美的糖霜质感会显得不合适",
+      "想要光亮塑料 3D、写实蛋糕摄影或复杂场景重建的需求"
+    ]
+  },
+  "en": {
+    "name": "Iced Cookie Bas-Relief",
+    "tagline": "Turns the subject and setting of a photo into one small, matte, rounded iced-cookie relief.",
+    "look": "This is not a cookie texture laid over the subject: the subject and the setting and relationships it needs are all remade as one miniature bas-relief in royal icing, fondant and soft clay, like a real baked, hand-piped cookie. Outlines are thick and rounded, forms rise only slightly, edges are softly bevelled, and detail is simplified to a few layers of icing, pressed texture and relief; the surface is matte, smooth and finely grainy, with no plastic shine. The cookie sits small like a seal in wide white space. Colours are bright icing tones translated from the photo, such as cream white, sky blue, lake teal, fresh green, butter yellow, apricot and coral pink. A few quiet words rest in the empty space.",
+    "traits": ["Iced cookie", "Miniature bas-relief", "Rounded bevels", "Small seal-like form", "Pastel icing colours"],
+    "good": [
+      "Simple, likeable subjects: a cat, a small car, a cottage, an ice-cream cone",
+      "Images with a simple setting: a lighthouse by the sea, a dog on a lawn, flowers on a windowsill",
+      "Photos you want as a holiday card, an avatar, a merchandise design or a warm illustration"
+    ],
+    "poor": [
+      "Dense, structurally complex photos: city skylines, machinery, crowds",
+      "Heavy or serious scenes, where a sweet icing look feels out of place",
+      "Requests for glossy plastic 3D, realistic cake photography or a full scene reconstruction"
+    ]
+  },
+  "ja": {
+    "name": "アイシングクッキーの浅浮き彫り",
+    "tagline": "写真の主役と場面をいっしょに、マットで丸みのある小さなアイシングクッキーの浮き彫りにします。",
+    "look": "主役にクッキーの質感をかぶせるのではなく、主役と必要な環境や関係をまとめて、アイシング、フォンダン、ソフトクレイの小さな浅浮き彫りに作り直します。本当に焼いて手で絞ったクッキーのようです。輪郭は丸く厚みがあり、わずかに盛り上がり、縁は柔らかく面取りされ、細部は数層のアイシング、型押し、浮き彫りだけに簡略化されます。表面はマットできめ細かく、細かな粒があり、プラスチックのような光沢はありません。クッキーは小さな印章のように置かれ、まわりは広い余白です。色は写真から訳した明るいアイシングの色で、クリームホワイト、空色、湖の青緑、若草色、バターイエロー、アプリコット、コーラルピンクなど。余白に静かに数文字が入ります。",
+    "traits": ["アイシングクッキー", "小さな浅浮き彫り", "丸い面取り", "印章のような小ささ", "アイシングのパステル"],
+    "good": [
+      "形がシンプルで親しみやすい主役：猫、小さな車、小屋、アイスクリーム",
+      "シンプルな場面のある写真：海辺の灯台、芝生の犬、窓辺の花",
+      "季節のカード、アイコン、グッズのデザイン、温かなイラストにしたい写真"
+    ],
+    "poor": [
+      "細部が密で構造の複雑な写真：都市のスカイライン、機械、人混み",
+      "重く深刻な雰囲気の場面（甘いアイシングの質感がそぐいません）",
+      "つやのあるプラスチック調3D、写実的なケーキ写真、複雑な場面の再現を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "아이싱 쿠키 얕은 부조",
+    "tagline": "사진의 주인공과 장면을 함께 무광의 둥근 아이싱 쿠키 작은 부조로 만듭니다.",
+    "look": "주인공에 쿠키 질감만 씌우는 것이 아니라, 주인공과 꼭 필요한 환경과 관계를 모두 아이싱, 퐁당, 소프트 클레이로 된 작은 얕은 부조로 다시 만듭니다. 실제로 굽고 손으로 짜 장식한 쿠키 같습니다. 윤곽은 둥글고 두툼하며 살짝만 솟아 있고, 가장자리는 부드럽게 모를 깎았으며, 세부는 몇 겹의 아이싱, 눌러 찍은 무늬, 부조만으로 단순하게 표현합니다. 표면은 무광으로 매끄럽고 미세한 입자가 있으며 플라스틱 같은 광택은 없습니다. 쿠키는 작은 낙관처럼 놓이고 주변은 넓은 여백입니다. 색은 사진에서 옮겨 온 밝은 아이싱 색으로 크림 화이트, 하늘색, 호수 청록, 연두, 버터 노랑, 살구색, 산호 분홍 등입니다. 여백에 조용히 몇 글자가 들어갑니다.",
+    "traits": ["아이싱 쿠키", "미니어처 얕은 부조", "둥근 모서리", "낙관 같은 작은 크기", "아이싱 파스텔"],
+    "good": [
+      "형태가 단순하고 친근한 주인공: 고양이, 작은 자동차, 오두막, 아이스크림",
+      "간단한 장면이 있는 사진: 바닷가 등대, 잔디 위 강아지, 창가의 꽃",
+      "시즌 카드, 프로필 사진, 굿즈 디자인, 따뜻한 일러스트로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부가 빽빽하고 구조가 복잡한 사진: 도시 스카이라인, 기계, 인파",
+      "무겁고 진지한 분위기의 장면(달콤한 아이싱 질감이 어울리지 않습니다)",
+      "반짝이는 플라스틱 3D, 사실적인 케이크 사진, 복잡한 장면 재현을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "نقش بارز على كعكة مزيّنة بالسكر",
+    "tagline": "يحوّل العنصر الرئيسي ومشهده في الصورة إلى نقش بارز صغير مستدير غير لامع على كعكة مزيّنة بالسكر.",
+    "look": "ليس الأمر ملمس كعكة يوضع فوق العنصر، بل يُعاد صنع العنصر مع ما يلزمه من محيط وعلاقات نقشاً بارزاً مصغّراً واحداً من الجليز الملكي والفوندان والصلصال الطري، كأنه كعكة حقيقية مخبوزة ومزيّنة باليد. الحدود سميكة مستديرة، والأشكال بارزة قليلاً، والحواف مشطوفة بنعومة، والتفاصيل مختزلة إلى طبقات قليلة من الجليز ونقوش مضغوطة؛ والسطح غير لامع ناعم بحبيبات دقيقة، بلا بريق بلاستيكي. تجلس الكعكة صغيرة كالختم وسط فراغ أبيض واسع. الألوان درجات جليز مشرقة مترجمة من الصورة، مثل الأبيض الكريمي وأزرق السماء وفيروزي البحيرة والأخضر الطري والأصفر الزبدي والمشمشي والوردي المرجاني. وتستقر في الفراغ كلمات قليلة هادئة.",
+    "traits": ["كعكة مزيّنة بالسكر", "نقش بارز مصغّر", "حواف مستديرة مشطوفة", "شكل صغير كالختم", "ألوان جليز فاتحة"],
+    "good": [
+      "عناصر بسيطة محببة: قطة، سيارة صغيرة، كوخ، مخروط آيس كريم",
+      "صور بمحيط بسيط: منارة على البحر، كلب على العشب، زهور على حافة نافذة",
+      "صور تريدها بطاقة مناسبة أو صورة شخصية أو تصميماً لمنتجات تذكارية أو رسماً دافئاً"
+    ],
+    "poor": [
+      "صور كثيفة معقدة البنية: أفق مدينة، آلات، حشود",
+      "مشاهد ثقيلة أو جادة لا يناسبها مظهر السكر الحلو",
+      "طلب مظهر بلاستيكي لامع ثلاثي الأبعاد أو تصوير كعك واقعي أو إعادة بناء مشهد كامل"
+    ]
+  }
+}
